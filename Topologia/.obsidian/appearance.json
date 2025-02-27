@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "theme": "system",
+  "enabledCssSnippets": [
+    "centrar_img",
+    "page-breaks",
+    "title-aligns",
+    "text-aligns"
+  ],
+  "cssTheme": "Minimal"
+}

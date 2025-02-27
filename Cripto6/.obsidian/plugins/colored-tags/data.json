@@ -1,0 +1,25 @@
+{
+  "palette": {
+    "seed": 3,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "excalidraw": 1,
+    "TODO": 2,
+    "duda": 3,
+    "solved": 4,
+    "btw": 5,
+    "TODO/duda": 1,
+    "funfact": 6,
+    "reminder": 7,
+    "btw/reminder": 1,
+    "Reminder": 8
+  },
+  "_version": 3
+}

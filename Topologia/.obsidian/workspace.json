@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "e3c23a6b0dfebe38",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f7cdfd178134219",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b43dbe7e6d1d2452",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topología.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "141db1d93123b50c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a27ccd913c22ae5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a95ebdde453c05b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "72911db9bfbf0f73",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4855e35a774c9a29",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8626059cf5090e44",
+    "type": "split",
+    "children": [
+      {
+        "id": "805f2e0531587546",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87d061649ab0638a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Topología.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8a4a2fb77d36472d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Topología.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "912192cd181588b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c94da1084c438fdf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Topología.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "b43dbe7e6d1d2452",
+  "lastOpenFiles": [
+    "Bienvenido.md",
+    "Actividades/Actividad Sesión 13.md",
+    "Actividades/Act 3.md",
+    "Topología.md",
+    "Topología de Subespacio.md",
+    "Topología Producto.md",
+    "Topologías.md",
+    "Operaciones con conjuntos.md",
+    "Homeomorfismo.md",
+    "Compacidad de un conjunto.md",
+    "RETO RETO RETO RETO.md",
+    "Primer Pitch Reto.md",
+    "Examen Práctico.md",
+    "Algoritmo de Takens.md",
+    "Algoritmo de Mapper.md",
+    "Asesoría.md",
+    "Forma y-o Geometría de los Datos.md",
+    "Complejo de Cêch.md",
+    "Clusterización Jerárquica.md",
+    "Transformaciones Lineales?.md",
+    "Grupos de Cadenas.md",
+    "Simplejos en n+1 dimensiones.md",
+    "Complejos Simpliciales Geométricos.md",
+    "Espacios Cociente.md",
+    "Homotopía de Funciones.md",
+    "Isotopía.md",
+    "Imagenes/Pasted Image 20240503234711_808.png",
+    "Imagenes/Pasted Image 20240503234654_805.png",
+    "Imagenes/Pasted Image 20240503234639_801.png",
+    "Imagenes/Pasted Image 20240503234624_809.png",
+    "Imagenes/Pasted Image 20240503234624_799.png",
+    "Imagenes/Pasted Image 20240503234609_797.png",
+    "Imagenes/Pasted Image 20240503234554_795.png",
+    "Imagenes/Pasted Image 20240503234539_816.png",
+    "Imagenes/Pasted Image 20240503234539_793.png",
+    "Imagenes/Pasted Image 20240503234524_791.png",
+    "templates",
+    "Actividades",
+    "Untitled.canvas",
+    "Excalidraw",
+    "Subnotas/Topología Métrica",
+    "Subnotas/Topología",
+    "Imagenes",
+    "Subnotas"
+  ]
+}

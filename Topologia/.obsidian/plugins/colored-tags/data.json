@@ -1,0 +1,32 @@
+{
+  "palette": {
+    "seed": 4,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "conjuntos": 1,
+    "excalidraw": 2,
+    "duda": 3,
+    "unfinished": 4,
+    "continuidad": 5,
+    "actividad": 6,
+    "conexidad": 7,
+    "topologia": 8,
+    "simplejos": 9,
+    "TODO": 10,
+    "homotopia": 11,
+    "homeomorfismo": 12,
+    "metricas": 13,
+    "numeros_betti": 14,
+    "solved": 15,
+    "reminder": 16,
+    "algoritmos": 17
+  },
+  "_version": 3
+}

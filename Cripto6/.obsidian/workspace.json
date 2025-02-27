@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "2852920fb69f4c77",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ff8a4d2405a77de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41c3fab3b6f4bf77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Módulo 3/Grupos de Curvas Elípticas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c445586f6c7ee26a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Módulo 3/Firma Digital con Curvas Elípticas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e52b71de25343090",
+    "type": "split",
+    "children": [
+      {
+        "id": "5badf0030955c141",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91f544d9cbe3b176",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "bafd37d55987bf4a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "abeliano",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e4fafb410c5f7ae5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3e6781480deef965",
+    "type": "split",
+    "children": [
+      {
+        "id": "7281a8c18500d81f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3013db92131e5569",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Módulo 3/Grupos de Curvas Elípticas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fa86ab4c4d0fb8dc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Módulo 3/Grupos de Curvas Elípticas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f1fe692145112f7e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1dd41b6328ecf349",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Módulo 3/Grupos de Curvas Elípticas.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "41c3fab3b6f4bf77",
+  "lastOpenFiles": [
+    "templates/newpage.md",
+    "Módulo 2/Criptografía de clave pública.md",
+    "Módulo 2/RSA.md",
+    "Módulo 2/Conceptos Preliminares.md",
+    "Módulo 2/Criptografía de clave simétrica.md",
+    "Módulo 2/Criptografía.md",
+    "Módulo 0/Bienvenido.md",
+    "Módulo 0/Cota Superior Asintótica.md",
+    "Módulo 1/Aritmética Modular.md",
+    "Módulo 0/Inducción.md",
+    "Módulo 0/Composición.md",
+    "Módulo 0/Conjuntos.md",
+    "Módulo 3/Firma Digital con Curvas Elípticas.md",
+    "Módulo 3/Criptografía con Curvas Elípticas.md",
+    "Módulo 3/Grupos de Curvas Elípticas.md",
+    "Módulo 3/Curvas Elípticas.md",
+    "Módulo 3/Conceptos Preliminares.md",
+    "Módulo 2/Firmas digitales.md",
+    "Módulo 2/Protocolo Criptográfico.md",
+    "Módulo 2/Funciones hash.md",
+    "Images/Captura de Pantalla 2024-05-28 a la(s) 9.58.48 a.m..png",
+    "Excalidraw/Grupos de Curvas Elípticas 2024-05-28 10.11.14.excalidraw.md",
+    "Excalidraw/Conceptos Preliminares 2024-05-28 09.34.27.excalidraw.md",
+    "Excalidraw/Conceptos Preliminares 2024-05-23 10.14.23.excalidraw.md",
+    "Módulo 2/Fase 2 Reto Criptografía.md",
+    "Excalidraw/Funciones hash 2024-05-02 09.38.42.excalidraw.md",
+    "Excalidraw/Firmas digitales 2024-05-13 11.15.31.excalidraw.md",
+    "templates",
+    "Módulo 4",
+    "Módulo 3",
+    "templates",
+    "Excalidraw",
+    "Módulo 2",
+    "Módulo 1",
+    "Módulo 0",
+    "Images/Captura de Pantalla 2024-04-01 a la(s) 9.57.00 a.m..png",
+    "Pasted image 20240401095600.png",
+    "Pasted image 20240401095548.png",
+    "Images/Luis_miguel.png",
+    "Images"
+  ]
+}

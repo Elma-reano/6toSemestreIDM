@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "baseFontSizeAction": true,
+  "baseFontSize": 17,
+  "enabledCssSnippets": [
+    "centrar_img",
+    "page-breaks"
+  ],
+  "cssTheme": "Minimal"
+}
